@@ -7,13 +7,18 @@
 + Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios  
 
 ## SKILLS YOU WILL GAIN 
-- bOrganizational Culture
-- bCareer Development
-- bStrategic Thinking
-- bChange Management
-- bProject Management
-- bStakeholder Management
-- bBusiness Writing 
-- bProject Charter
-- bProject Planning
-- bRisk Management
+- Organizational Culture
+- Career Development
+- Strategic Thinking
+- Change Management
+- Project Management
+- Stakeholder Management
+- Business Writing 
+- Project Charter
+- Project Planning
+- Risk Management
+
+
+
+### Google
+Google Career Certificates are part of Grow with Google, an initiative that draws on Google's 20-year history of building products, platforms, and services that help people and businesses grow. Through programs like these, we aim to help everyone– those who make up the workforce of today and the students who will drive the workforce of tomorrow – access the best of Google’s training and tools to grow their skills, careers, and businesses.
